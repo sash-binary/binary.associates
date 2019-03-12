@@ -10,7 +10,7 @@ module.exports = function (grunt) {
     },
     images: {
       files: ['src/assets/images/*'],
-      tasks: ['imagemin'],
+      tasks: ['image'],
     },
     svg: {
       files: ['src/assets/svg/*'],
