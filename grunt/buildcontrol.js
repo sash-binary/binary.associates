@@ -8,7 +8,7 @@ module.exports = function (grunt) {
         },
         pages: {
           options: {
-            remote: 'git@github.com:sashcy/binary.associates.git',
+            remote: 'git@github.com:sash-binary/binary.associates.git',
             branch: 'master'
           }
         },
