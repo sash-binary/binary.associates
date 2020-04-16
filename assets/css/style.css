@@ -746,6 +746,14 @@ table {
 .right-white-border {
   border-right: 1px solid #ffffff; }
 
+.footer-content {
+  color: #a8a8a8;
+  font-size: 13px; }
+
+.footer-content a {
+  color: #dedede;
+  font-size: 13px; }
+
 .scrollToTop {
   color: #ffffff;
   font-size: 1.4em;
